@@ -9,6 +9,6 @@
 ![SQL](https://img.shields.io/badge/-SQL-1f2937?style=for-the-badge&logo=PostgreSQL&logoColor=c084fc)
 ![GO](https://img.shields.io/badge/-GO-1f2937?style=for-the-badge&logo=Go&logoColor=22d3ee)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carboniuum&show_icons=true&theme=jolly&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tulayev&show_icons=true&theme=jolly&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carboniuum&langs_count=3&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tulayev&langs_count=3&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
