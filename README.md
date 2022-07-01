@@ -7,6 +7,7 @@
 ![JS](https://img.shields.io/badge/-JavaScript-1f2937?style=for-the-badge&logo=javascript&logoColor=facc15)
 ![Vue](https://img.shields.io/badge/-VueJS-1f2937?style=for-the-badge&logo=vue.js&logoColor=84cc16)
 ![SQL](https://img.shields.io/badge/-SQL-1f2937?style=for-the-badge&logo=PostgreSQL&logoColor=c084fc)
+![GO](https://img.shields.io/badge/-GO-1f2937?style=for-the-badge&logo=Go&logoColor=22d3ee)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carboniuum&show_icons=true&theme=jolly&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
