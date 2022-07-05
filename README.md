@@ -11,3 +11,4 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tulayev&show_icons=true&theme=jolly&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tulayev&langs_count=3&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
+
