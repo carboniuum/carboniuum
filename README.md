@@ -1,3 +1,5 @@
+![Alt text](https://github.com/tulayev/tulayev/blob/main/1.gif)
+
 ### Languages and tools
 
 ![.CSharp](https://img.shields.io/badge/-C%23-1f2937?style=for-the-badge&logo=CSharp&logoColor=8b5cf6)
