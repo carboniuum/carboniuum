@@ -1,4 +1,6 @@
-![Alt text](https://github.com/tulayev/tulayev/blob/main/1.gif)
+<p align="center">
+    <img src="https://github.com/tulayev/tulayev/blob/main/1.gif" />
+</p>
 
 ### Languages and tools
 
